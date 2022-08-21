@@ -15,7 +15,6 @@ app.use(require('./routes'));
 // deployed to heroku
 
 mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/pizza-hunt', {
-  useFindAndModify: false,
   useNewUrlParser: true,
   useUnifiedTopology: true
 });
