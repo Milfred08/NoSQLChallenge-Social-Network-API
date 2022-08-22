@@ -84,6 +84,10 @@ http://localhost:3001/api/thoughts/<thoughtId>/reactions
 Delete a reaction from thought by id's:
 http://localhost:3001/api/thoughts/<thoughtId>/reactions/<reactionId>
 
+#### Walkthrough Video
+
+[Click here to see the demo video!](https://drive.google.com/file/d/1G69BE95B5X8ZEhqSbYuh7Eqt6gYSHr36/view?usp=sharing)
+
 Insomnia-Screenshot:
 
 ![Insomnia-Screenshot](https://user-images.githubusercontent.com/33476304/185820068-71e3ac54-77bb-4ca4-9917-f68e825255b2.png)
