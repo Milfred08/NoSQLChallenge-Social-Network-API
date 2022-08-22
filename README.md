@@ -86,7 +86,7 @@ http://localhost:3001/api/thoughts/<thoughtId>/reactions/<reactionId>
 
 #### Walkthrough Video
 
-[Click here to see the demo video!](https://drive.google.com/file/d/1G69BE95B5X8ZEhqSbYuh7Eqt6gYSHr36/view?usp=sharing)
+[Click here to see the demo video!](https://clipchamp.com/watch/aCZkgc8RfX8)
 
 Insomnia-Screenshot:
 
