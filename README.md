@@ -69,7 +69,7 @@ json sample:
 {
   "thoughtText": "Here's a cool thought -- reaction #2",
   "username": "john",
-  "userId": "6071c0b41360fe1888832dc6"
+  "userId": "6302c9d5229c785ede6e842c"
 }
 
 Get all thoughts:
